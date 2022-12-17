@@ -1,8 +1,9 @@
 .main--div {
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
     width: 50%;
-    height: 800px;
+    margin:auto;
+    
     border: 1px solid black;
 }

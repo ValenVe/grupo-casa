@@ -1,0 +1,32 @@
+.buildingcard--div {
+    display: flex;
+    width: 464px;
+    height: 240px;
+    border-radius: 18px;
+    background-color: white;
+}
+
+.building--text {
+    padding-left: 30px;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.division {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.titulo {
+    line-height: 3px;
+}
+
+.information {
+    padding-top: 15px;
+    line-height: 3px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+}

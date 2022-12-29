@@ -1,0 +1,30 @@
+.olvide--div {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #f6f7fb;
+}
+
+.olcard--div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 380px;
+    width: 446px;
+    border-radius: 31px;
+    box-shadow: 11px 11px 44px 1px rgba(0, 0, 0, 0.12);
+    margin: auto;
+    padding: 20px 75px;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+}

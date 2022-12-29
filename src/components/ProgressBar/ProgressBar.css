@@ -1,0 +1,13 @@
+.progress {
+    width: 175px;
+    height: 8px;
+    background-color: #D3D5E1;
+    border-radius: 7px;
+}
+
+.completed {
+    width: 42%;
+    height: 8px;
+    background-color: #E9562A;
+    border-radius: 7px;
+}

@@ -1,0 +1,16 @@
+.buttons--footer {
+    display: flex;
+    flex-direction: row;
+    height: 25%;
+    width: 80%;
+    padding-top: 50px;
+    padding-left: 95px;
+}
+
+.buttonf--div {
+    width: 23%;
+}
+
+.needp {
+    padding-left: 20px;
+}

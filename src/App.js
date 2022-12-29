@@ -1,9 +1,33 @@
-import { LoginCard } from "./views";
+import {
+
+  Login,
+  OlvideContraseña,
+  Error,
+  Inicio,
+  ProyectoMain,
+  ProyectoVista,
+  ProyectoForm,
+  ProyectosEliminar,
+  TicketDisplay,
+  TicketSelected
+
+} from "../src/views";
+
+import "./App.css"
 
 function App() {
   return (
     <>
-      <LoginCard />
+      {/* <Login /> */}
+      {/* <OlvideContraseña /> */}
+      {/* <Error /> */}
+      {/* <Inicio /> */}
+      {/* <ProyectoMain /> */}
+      {/* <ProyectoVista /> */}
+      {/* <ProyectoForm /> */}
+      {/* <ProyectosEliminar /> */}
+      {/* <TicketDisplay /> */}
+      <TicketSelected />
     </>
   );
 }

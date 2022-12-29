@@ -1,0 +1,28 @@
+.menu--div {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    height: 777px;
+    width: 380px;
+    border-radius: 31px;
+    background-color: white;
+    box-shadow: 11px 11px 44px 1px rgba(0, 0, 0, 0.12);
+}
+
+.content {
+    width: 80%;
+    height: 80%;
+    line-height: 45px;
+}
+
+.content--text {
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.separador {
+    height: 2px;
+    width: 90%;
+    background-color: #D9D9D9;
+}

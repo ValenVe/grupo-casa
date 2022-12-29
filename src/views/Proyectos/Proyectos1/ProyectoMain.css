@@ -1,0 +1,33 @@
+.proyecto--main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #f6f7fb;
+}
+
+.main--cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    height: 60%;
+}
+
+.titulo--mainhead {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.main--footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-bottom: 60px;
+    padding-right: 30px;
+    width: 95%;
+    height: 10%;
+}

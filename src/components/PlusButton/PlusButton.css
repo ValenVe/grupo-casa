@@ -1,0 +1,15 @@
+.plus--button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+    background-color: #E9562A;
+}
+
+.plus--sign {
+    font-size: 60px;
+    color: white;
+    font-weight: 400;
+}

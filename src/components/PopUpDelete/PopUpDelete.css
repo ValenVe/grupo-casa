@@ -1,0 +1,29 @@
+.popup--main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 28%;
+    width: 25%;
+    border-radius: 31px;
+    background-color: white;
+}
+
+.popup--buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 20px;
+    width: 65%;
+    height: 30%;
+}
+
+.popup--title {
+    font-size: 20px;
+}
+
+.popup--space {
+    padding-left: 10px;
+    padding-right: 10px;
+}

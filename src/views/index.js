@@ -1,2 +1,10 @@
-export { default as LoginCard } from "./LoginCard/LoginCard";
-
+export { default as Login } from "./Log/Login1/Login";
+export { default as OlvideContraseña } from "./Log/Login2/OlvideContraseña";
+export { default as Error } from "./Log/Login3/Error";
+export { default as Inicio } from "./Inicio/Inicio1/Inicio";
+export { default as ProyectoMain } from "./Proyectos/Proyectos1/ProyectoMain";
+export { default as ProyectoVista } from "./Proyectos/Proyectos2/ProyectoVista";
+export { default as ProyectoForm } from "./Proyectos/Proyectos3/ProyectoForm";
+export { default as ProyectosEliminar } from "./Proyectos/Proyectos4/ProyectosEliminar";
+export { default as TicketDisplay } from "./Ticket/TicketDisplay/TicketDisplay";
+export { default as TicketSelected } from "./Ticket/TicketSelected/TicketSelected";

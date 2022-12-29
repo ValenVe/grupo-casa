@@ -1,9 +1,0 @@
-.main--div {
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    width: 50%;
-    margin:auto;
-    
-    border: 1px solid black;
-}

@@ -1,0 +1,46 @@
+.togglebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 75%;
+    padding-bottom: 40px;
+}
+
+.togglebar--titles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60%;
+    width: 78%;
+}
+
+.toggle--title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #5D5C5D;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+    height: 2px;
+    width: 100%;
+    background-color: #A7A7A7;
+}
+
+.toggleone,
+.toggletwo,
+.togglethree {
+    height: 3px;
+    width: 33%;
+}
+
+.checked {
+    color: #E9562A;
+}
+
+.selected {
+    background-color: #E9562A;
+}

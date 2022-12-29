@@ -1,0 +1,44 @@
+.card--div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 25%;
+    height: 550px;
+    margin: auto;
+    padding: 50px;
+    border-radius: 31px;
+    background-color: white;
+    box-shadow: 11px 11px 44px 1px rgba(0, 0, 0, 0.12);
+}
+
+.div--img {
+    margin: auto;
+}
+
+.div--form {
+    display: grid;
+    text-align: left;
+}
+
+.error {
+    text-align: center;
+    font-weight: 500;
+    color: #FF0707;
+    text-decoration-line: underline;
+}
+
+* {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: #404040;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+a {
+    color: #E9562A;
+    font-weight: 600;
+}
